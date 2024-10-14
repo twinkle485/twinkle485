@@ -16,3 +16,5 @@ Let's connect and collaborate on something exciting!🚀</h3>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Twinkle&label=Profile%20Views&color=12&icon=0&pretty=false" />
 </a>
+
+[![An image of @twinkle485's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/twinkle485)](https://holopin.io/@twinkle485)
